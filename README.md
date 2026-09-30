@@ -98,7 +98,6 @@ SempatApps/
 
 ## 👨‍💻 Kontribusi & Author
 
-Dibuat dengan ❤️ oleh **[Muhammad Arief Huda](https://github.com/Ariefhuda434)** untuk mengatasi masalah kelaparan dan limbah makanan di Indonesia.
-
+Kelompo 6
 ---
-*Sempat: Selamatkan Makanan, Peduli Sekitar!*
+*Sempat: Setiap Makanan Punya Kesempatan*
